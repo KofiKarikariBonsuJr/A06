@@ -1,0 +1,24 @@
+h2 {
+    color: #800000;
+    font-size: 170%;
+    text-indent: 30;
+  }
+h3 {
+    font-size: 130%;
+    text-indent: 30;
+    font-style: italic;
+  } 
+a:hover,
+a:focus {
+  font-style: italic;
+}
+footer p
+{
+text-align: center;
+}
+.shadow {
+text-shadow: #800000;
+}
+element {
+
+}
